@@ -1,11 +1,14 @@
 h1 {
     color:seagreen;
     text-align: center;
+    font-weight: bold;
+    font-family: "Helvetica", sans-serif; 
+    font-size: 50px;
 }
 img {
     height: auto;
     width: 400px;
 }
-* {
-    background-color: cornsilk;
+h2 {
+    color:seagreen;
 }
